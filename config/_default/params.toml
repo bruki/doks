@@ -8,7 +8,11 @@ mainSections = ["docs"]
 
 [social]
   twitter = "getdoks"
-
+  
+# Add-ons
+[add_ons]
+  docSearch = true # false (default) or true
+  
 # Doks (@thulite/doks-core)
 [doks]
   # Color mode
