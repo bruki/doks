@@ -5,7 +5,7 @@ summary: "You can use blog posts for announcing product updates and features tes
 date: 2024-09-07T16:27:22+02:00
 lastmod: 2024-09-07T16:27:22+02:00
 draft: false
-weight: 50
+weight: 60
 categories: []
 tags: []
 contributors: []
